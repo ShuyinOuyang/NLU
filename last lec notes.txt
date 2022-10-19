@@ -1,0 +1,19 @@
+1. fixed input model v.s. non fixed one
+
+attention is useful when large context, which part of context is useful.
+self-attention: only input
+cross-attention: input and output
+
+vocabulary of output: part of speech or text generation
+
+supervised v.s. unsupervised
+
+input and output, the length
+
+compute BLEU score, calculate attention score.
+
+2. some cases the attention is not useful.
+
+spam detection prefers CNN. 
+
+3. problem is small, data is small, tend to use small models
